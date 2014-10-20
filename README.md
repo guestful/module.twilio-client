@@ -13,3 +13,4 @@ And in your POM:
 
 Checkout last version [here](https://bintray.com/guestful/maven/guestful.module.twilio-client/view)
 
+[![Build Status](https://drone.io/github.com/guestful/module.twilio-client/status.png)](https://drone.io/github.com/guestful/module.twilio-client/latest)
